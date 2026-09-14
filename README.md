@@ -1,4 +1,4 @@
-# Teacher's Desk
+# The Teacher's Desk
 
 A responsive static website built with plain HTML, CSS and JavaScript.
 
